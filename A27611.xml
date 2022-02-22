@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An humble remonstrance concerning some additional confirmations of the Kingdom of Christ to be in its succession 1697 rising from further light in prophecy.</title>
+            <author>Beverley, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27611</idno>
+            <idno type="STC">Wing B2156</idno>
+            <idno type="STC">ESTC R35751</idno>
+            <idno type="EEBO-CITATION">15555626</idno>
+            <idno type="OCLC">ocm 15555626</idno>
+            <idno type="VID">103714</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27611)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103714)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1582:45)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An humble remonstrance concerning some additional confirmations of the Kingdom of Christ to be in its succession 1697 rising from further light in prophecy.</title>
+                  <author>Beverley, Thomas.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed by Wing and NUC pre-1956 imprints to Beverley.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Prophecies.</term>
+               <term>Prophecy --  Christianity.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="prophecy">
+            <pb n="1" facs="tcp:103714:1"/>
+            <head>An Humble <hi>Remonſtrance</hi> concerning ſome <hi>Additional Confirmations</hi> of the King<g ref="char:EOLhyphen"/>dom of <hi>Chriſt</hi> to be in its Succeſſion <hi>1697.</hi> riſing from further Light in Prophecy.</head>
+            <p>THE Lord having made me a <hi>Watchman</hi> to this Na<g ref="char:EOLhyphen"/>tion, concerning the Approach of his <hi>Kingdom,</hi> and the Great Change of the whole State of the Chriſtian Churches, and ſo of the World upon it, in 1697. I cannot but <hi>ſound</hi> the <hi>Trumpet;</hi> For <hi>Theſe Things</hi> are not by way of Impreſſion, or any private <hi>Inſpiration,</hi> but by ſuch Great and <hi>Infallible</hi> Arguments, out of his Word, that all Judicious Chriſtians may, and ought to diſcern Truth by Them, and know, whether <hi>theſe Things are ſo,</hi> or <hi>not?</hi> but eſpecially the <hi>Miniſters of his Word.</hi> And they are ſuch as are moſt Amazing, eſpecially in theſe Two laſt Inſtances, of which I cannot but give this Notice, like the <hi>ſounding of the Trum<g ref="char:EOLhyphen"/>pet louder and louder.</hi>
+            </p>
+            <p>When I had ſetled that moſt Eminent part of the <hi>Line of Time,</hi> Given by God in ſo Various Characters; viz. <hi>Time, Times, Half a Time,</hi> and <hi>Three Days</hi> and a <hi>Half</hi> (although for very great Reaſons Diverſe from the other, yet of the ve<g ref="char:EOLhyphen"/>ry ſame Import and Duration, as I have ſhewn). Theſe <hi>Times</hi> and <hi>Days</hi> are Four Times Nam'd; <hi>Forty Two Months</hi> Twice Nam'd; and 1260 <hi>Days</hi> Twice Nam'd expreſly; and Twice incluſively Nam'd; <hi>viz.</hi> in the 1290. and 1335 Days, <hi>Dan.</hi> 12. And as in <hi>Time, Times, Half a Time,</hi> Given with a Solemn Oath, <hi>Dan.</hi> 12. And at the Entrance of <hi>Half Time,</hi> Embarraſs'd with an Oath, that ſuch <hi>Time ſhould be no more,</hi> Rev. 10. as I had alſo abundantly made out: when I had alſo to my Full Aſſurance Eſtabliſh'd the Neceſſity from all manner of Concurrent Arguments; That the Beginning of this Part of Time, made every way ſo illuſtrious by God, muſt needs begin <hi>A. D.</hi> 437. and ſo End 1697. and that I had con<g ref="char:EOLhyphen"/>tinually
+<pb n="2" facs="tcp:103714:2"/>urg'd; that the 42 <hi>Months</hi> of the <hi>Gentiles,</hi> and of the <hi>Beast,</hi> are prepar'd by the moſt Wiſe <hi>Spirit of Prophecy,</hi> for the Adjuſting the Time, between the <hi>Beaſts</hi> not being in his Succeſſion ſo early as the 1260 Days began; and the <hi>Gentiles,</hi> as his People, preparing for him at their <hi>Beginning</hi> 38 Years be<g ref="char:EOLhyphen"/>fore. I had alſo conſider'd, That the Adjuſtment muſt needs be made by Equalling the Time of the Sun and of the Moon one to another. I had obſerv'd alſo, That the 38 Years made a Re<g ref="char:EOLhyphen"/>preſentation of Two Nineteens, or the <hi>Golden Number</hi> Twice Accounted.</p>
+            <p>When All was thus ſetled, What more Raviſhing Aſſurance could be given, than that <hi>Juſt now</hi> by looking more intimately into the Matter, I find, that That ſo Wiſe and <hi>Mathematick</hi> A<g ref="char:EOLhyphen"/>dequation of Time of the <hi>Sun</hi> and Moon, Approved by all the World, is made uſe of by the Spirit of God in this Time: For as the <hi>Lunations</hi> every <hi>Nineteen</hi> Years, are found to Re<g ref="char:EOLhyphen"/>turn to the ſame Point of Congreſs with the Sun, as at their firſt ſetting out together, it muſt needs be, That what Time the Sun has ſpent more, and the Moon leſs in thoſe Nineteen Years, muſt needs alſo be the Juſt Proportion of Time between the Sun and Moon, throughout all Time; and that being about E<g ref="char:EOLhyphen"/>leven Days, every Year, is Thirty Eight Days in Three Years and a Half, and Thirty Eight Years in Three Years and Half of Years.<note place="margin">By a Natu<g ref="char:EOLhyphen"/>ral <hi>Intercalati<g ref="char:EOLhyphen"/>on,</hi> the Moon adds about 217 <hi>Days,</hi> a<g ref="char:EOLhyphen"/>bove its own <hi>Years,</hi> every 19 <hi>Years,</hi> to meet the Sun in the ſame Point.</note> And this is the very Time found by All Accounts of Scripture-<hi>Prophecy</hi> and <hi>Hiſtory,</hi> between the 1260. begin<g ref="char:EOLhyphen"/>ning 437. and the <hi>Beast</hi> coming into his <hi>Months</hi> 476. And as in filling up the <hi>Moon's</hi> Time to Time of the <hi>Sun,</hi> there muſt be a proportionable <hi>Intercalation;</hi> ſo here the <hi>Beaſt's Moons,</hi> wherein they are ſhort of the 1260 Days, are intercalated for by the <hi>Moons</hi> of the <hi>Gentiles:</hi> Who can think this Frame of Things by Chance, as in the Annexed Diſcourſe is de<g ref="char:EOLhyphen"/>ſcrib'd?</p>
+            <p>And as I was thus conſidering this Nobleſt and moſt Prin<g ref="char:EOLhyphen"/>cipal Part of the <hi>Line of Time,</hi> in the Eye of <hi>Prophecy;</hi> it pleaſed God, by a very Judicious and Honourable Hand, to ſend me this Obſervation upon the whole <hi>Prophetical</hi> Part of my <hi>Line of Time;</hi> as I have ſtated it to begin from <hi>Solomon</hi>'s Death, where the <hi>Types</hi> of the <hi>Kingdom of Chriſt</hi>
+               <pb n="3" facs="tcp:103714:2"/>fell ſo low, and to reach to the <hi>Viſion</hi> of <hi>Ezekiel</hi>'s <hi>Tem<g ref="char:EOLhyphen"/>ple,</hi> c. 40. when the <hi>Viſional Type of Chriſt's Kingdom</hi> is at the Height, but Debarr'd from Coming into Effect, till the <hi>Fullneſs</hi> of All Time. And it is Given in 390 Days of <hi>Ezekiel</hi>'s <hi>Lying on his Side,</hi> c. 4. After which I obſerv'd Forty Days of <hi>Bearing Judah</hi>'s <hi>Sin,</hi> and 2300 <hi>Eves, Morns</hi> of Delay, e're the <hi>Sanctuary Cleans'd,</hi> according to <hi>Ezeki<g ref="char:EOLhyphen"/>el</hi>'s <hi>Viſion.</hi> All which put together, make 2730 Years.</p>
+            <p>Now as that ſame Excellent Perſon hath obſerv'd, God had ſetled a Standard of Puniſhment, <hi>Levit.</hi> 26. That a Multiplication by <hi>Sevens</hi> ſhould be the Proportion; The firſt Time therefore he fixes this State of Puniſhment, ex<g ref="char:EOLhyphen"/>preſs'd in ſo <hi>Solemn Bearing Iniquity;</hi> it is in 390 <hi>Days of Years.</hi> Let this then be multiplied by <hi>Seven,</hi> and it makes the Juſt Sum of 2730. which is made up of 390. 40. 2300 Days of Years; and then according to the <hi>Sab<g ref="char:EOLhyphen"/>batick Seven,</hi> and according to what God aſſures after the <hi>Sevens of Puniſhment,</hi> There ſhall be a Reſtoration of <hi>All Iſrael, Lev.</hi> 26. <hi>v.</hi> 44.</p>
+            <p>Now I would Appeal to the Reaſon of all Mankind, ſeeing Theſe Things are ſo <hi>Mathematically Demonſtrative;</hi> out of Words ſo undeniably written in Scripture; whe<g ref="char:EOLhyphen"/>ther it be not a Juſtification of my whole <hi>Prophetical Line of Time</hi> in its Whole; and in its Parts I have alſo juſtified it Part by Part, and eſpecially in the principal part, the <hi>Times and Half Time.</hi> And it is the more Aſtoniſhing to me, This Aſſurance of the whole <hi>Prophetical Line</hi> ſhould be ſent to me by Another ſo Worthy Hand; elſe in all probability I had ne<g ref="char:EOLhyphen"/>ver Thought of it, and upon his Survey of my whole <hi>Line of Time.</hi>
+            </p>
+            <p>Now ſeeing, however it hath pleas'd God to lay me in the moſt Abaſive Outward Circumſtances, that I might not be <hi>exalt<g ref="char:EOLhyphen"/>ed above meaſure</hi> by All this Manifeſtation, yet He hath Honour'd me, ſo unworthy, with ſo publick a Character, as to be the <hi>He<g ref="char:EOLhyphen"/>rald of his Kingdom,</hi> at 1697. to theſe Nations, by ſo many In<g ref="char:EOLhyphen"/>fallible Proofs of the Time, that I can bid Defiance to the Great<g ref="char:EOLhyphen"/>eſt Wit, Reaſon or Learning, that Allows Scripture to be the Word of God, to Anſwer, or make them nothing worth; being
+<pb n="4" facs="tcp:103714:3"/>ſuch as even a Conſidering Anti-Scripturiſt muſt be convinc'd by obſerving ſo much already fullfill'd, according to ſuch Rules.</p>
+            <p>I moſt humbly therefore beſeech, That in regard of the Prodigious Averſations of the Mind of even Thoſe whoſe proper Sphere it is to conſider of theſe Labours, and to take care for the Honour of Thoſe, who ſo Labour in this Word and Doctrine, as I have done. If it ſhall yet pleaſe the Wiſe and Holy Diſpoſer of All Things, to humble my Outward Condition, to the Loweſt Dungeon; both in regard to the Puniſhment due to my Iniquities; in regard of the yet Low <hi>State</hi> of the <hi>King<g ref="char:EOLhyphen"/>dom of Chriſt,</hi> in <hi>Tribulation,</hi> and <hi>Patience;</hi> during which, the Miniſters of it muſt be <hi>Low</hi> alſo, and in <hi>Sackcloth:</hi> And, <hi>Laſtly,</hi> As Things will appear within Little Time, that it may Upbraid to <hi>Chriſtians</hi> (even tho it was their Office to do o<g ref="char:EOLhyphen"/>therwiſe) their Low Regard to the Kingdom of Chriſt; In All theſe Regards, Let No One be moved by my Afflictions, whatever they may be; but conſider the Vaſt Accounts of Scripture Truth, and Reaſon, and be Aſſur'd, the Kingdom of God muſt needs be as cloſe upon us, as I have Declared. For the <hi>Word of God cannot be Broken:</hi> And it muſt have a Senſe; and that Senſe we may, by a Deep Pondering, and a Diligent Compare, be as ſure of in Prophetical, as other Parts of it. I cannot therefore but earneſtly beſeech Conſidera<g ref="char:EOLhyphen"/>tion, whether the Things I have offered, can be thought either Frivolous, or Forc'd; And whether on ſuch a Settlement as I have long a go made, what I now offer upon it, be not even moſt Surprizing and Wonderful in its <hi>Confirmation,</hi> neither depen<g ref="char:EOLhyphen"/>ding on <hi>Phantaſie</hi> or <hi>Fiction,</hi> but moſt <hi>Subſtantial Scripture, Hiſtory, Nature, Reaſon.</hi>
+            </p>
+            <p>Oh that then neither the <hi>Gallio</hi>-Spirit, of <hi>Caring</hi> for None of Theſe Things, nor the Unbelieving Spirit might <hi>prevail;</hi> That tho God ſhould <hi>open the very Windows of Heaven,</hi> They <hi>cannot</hi> be: For be Aſſur'd, That at the <hi>Seventh,</hi> or <hi>Laſt Half Time</hi> Ending, from <hi>a Cloud as big as a Man's Hand,</hi> The <hi>Heavens ſhall be over-ſpread,</hi> and <hi>a mighty Rain</hi> of the <hi>Goſpel Fall,</hi> according to <hi>that Type,</hi> 1 Kings 18.34.</p>
+            <pb facs="tcp:103714:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
